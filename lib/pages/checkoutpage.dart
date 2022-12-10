@@ -116,6 +116,7 @@ class _CheckOutPageState extends State<CheckOutPage> {
                     style: TextStyle(fontSize: 18,color: Colors.white),)
                     ],
                 ),
+                
               );
   }
 
